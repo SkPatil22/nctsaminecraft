@@ -1,0 +1,22 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-04-22 13:44:09 -0400",
+      "minecraft:mountains": "2021-04-22 13:43:43 -0400",
+      "minecraft:taiga": "2021-04-22 13:45:29 -0400",
+      "minecraft:beach": "2021-04-22 13:47:31 -0400",
+      "minecraft:river": "2021-04-16 10:36:32 -0400",
+      "minecraft:wooded_hills": "2021-04-22 13:44:58 -0400",
+      "minecraft:swamp": "2021-04-22 13:43:54 -0400",
+      "minecraft:plains": "2021-04-22 13:43:17 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-04-16 10:36:09 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
